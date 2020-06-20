@@ -1,0 +1,17 @@
+.board button{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: 0px 8px 0px 8px;
+  background: grey;
+  border: 4px solid black;
+
+}
+
+body{
+  background-color: orange;
+}
+
+.jumbotron{
+  background-color: #e86c56;
+}
